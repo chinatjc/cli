@@ -1,0 +1,20 @@
+{
+  "name": "@coinstore/compress-pictures",
+  "version": "1.0.0",
+  "description": "基于tinify的图片压缩cli工具",
+  "main": "bin/index.js",
+  "author": "Steven",
+  "license": "MIT",
+  "bin": {
+    "cs-compress-pictures": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "minimist": "^1.2.8",
+    "tinify": "^1.7.1"
+  },
+  "keywords": [
+    "tinify",
+    "squash"
+  ]
+}

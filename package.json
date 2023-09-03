@@ -1,6 +1,6 @@
 {
   "name": "@coinstore/compress-pictures",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "基于tinify的图片压缩cli工具",
   "main": "bin/index.js",
   "author": "Steven",
